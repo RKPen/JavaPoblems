@@ -1,2 +1,2 @@
-# refactored-couscous
+# Java exercies with solutions
 JAVA PROBLEMS
