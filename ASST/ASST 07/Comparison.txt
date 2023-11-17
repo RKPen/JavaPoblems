@@ -1,0 +1,3 @@
+In the BST, the Enqueue method and Deqeue mehtods both run in O(logn) time.
+For the array, the Enqueue method runs in O(1) time since order is not important. The dequeue and peek
+methods run in O(n) time. 
