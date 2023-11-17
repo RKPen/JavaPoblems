@@ -1,2 +1,2 @@
-# Java exercies with solutions
+# Java exercies 
 JAVA PROBLEMS
